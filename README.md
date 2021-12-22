@@ -1,11 +1,11 @@
-<!-- - 👋 Hi, I’m @nittin12
+- 👋 Hi, I’m @nittin12
 - 👀 I’m interested in ... flutter and web development.
 - 🌱 I’m currently learning ... graphql and flutter animations.
 
 
 
- -->
 
+<!--
 
 # Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
@@ -110,3 +110,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+-->
